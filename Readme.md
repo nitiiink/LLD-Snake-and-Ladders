@@ -1,7 +1,7 @@
 ## LLD Snake-and -Ladders
 
 ### Requirement Clarification and Class Diagram
-![](../../Downloads/IMG_DBF5A49C818E-1.jpeg)
+![](img/lld_snake&ladder.jpeg)
 
 ### Output
 * ---- Starting Game -----
